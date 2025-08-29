@@ -18,9 +18,11 @@ In COM630, I will be studying design principles while learning tools like Adobe 
 My independent study advisor has encouraged me to develop a final project relevant to my desired field that will serve as a featured element in a portfolio. Because my goal is to work in software development as a Technical Writer, we decided to create 2 instructional booklets of 10 pages or more using Adobe InDesign. My work with the instructor will focus on mastering Indesign, and the design aspects of the booklet including text setting, visual components, and dynamic elements. The procedures that I write in ENG517 will serve as the text for the instructional booklets.
 
 ### Goals
-- To select procedure topics that are relevant to Technical Writing -- see Description, below. (note - add link to "description")
+- To select procedure topics that are relevant to Technical Writing -- see [Description](#description), below.
 - To develop procedures with an eye toward the ENG517 final project as well as the Independent Study final project.
 - To create instructional manual-style booklets using Indesign.
+
+Sample technical manual: ![sample manual](images/software-manual-template.webp)
 
 ## Description
 
@@ -38,6 +40,8 @@ While I this approach will require additional time spent researching, it will pr
 
 ### Sources
 I have several friends, including a sibling, who work for Red Hat. I could talk to them to get an idea of the products they use for workflow, as well as the products that they design/sell/support.
+
+To start learning InDesign, I will be using the Linkedin Learning course title [InDesign 2024 Essential Training](https://www.linkedin.com/learning/indesign-2024-essential-training/indesign-learn-the-fundamentals-19871440?u=53565897)
 
 ## Potential Topic Ideas
 
