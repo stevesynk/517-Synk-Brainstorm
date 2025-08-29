@@ -18,7 +18,7 @@ In COM630, I will be studying design principles while learning tools like Adobe 
 My independent study advisor has encouraged me to develop a final project relevant to my desired field that will serve as a featured element in a portfolio. Because my goal is to work in software development as a Technical Writer, we decided to create 2 instructional booklets of 10 pages or more, using Adobe InDesign, for the final project of the study. My work with the instructor will focus on learning Indesign to implement skills like setting text, designing visual components, and adding dynamic elements. The procedures that I write in ENG517 will serve as the text for the instructional booklets.
 
 ### Goals
-- To select procedure topics that are relevant to Technical Writing -- see [Description](#description) below.
+- To select procedure topics that are relevant to Technical Writing -- see [Description](#description).
 - To develop procedures with an eye toward the ENG517 final project as well as the Independent Study final project.
 - To create instructional manual-style booklets using Indesign.
 
