@@ -22,6 +22,8 @@ My independent study advisor has encouraged me to develop a final project releva
 - To develop procedures with an eye toward the ENG517 final project as well as the Independent Study final project.
 - To create instructional manual-style booklets using Indesign.
 
+Sample technical manual: ![sample manual](images/software-manual-template.webp)
+
 ## Description
 
 While the ENG517 project guidelines allow students to choose any topic for their procedures, the goal of the independent study will be to create an instructional manual booklet that can be used for future interviews. Since my goal is to work in software development, my advisor encouraged me to choose topics that would seem relevant to a recruiter or hiring manager at the kind of technology corporation I would like to work for.
