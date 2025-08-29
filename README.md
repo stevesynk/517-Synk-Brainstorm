@@ -15,10 +15,10 @@ In COM630, I will be studying design principles while learning tools like Adobe 
 
 ### Purpose
 
-My independent study advisor has encouraged me to develop a final project relevant to my desired field that will serve as a featured element in a portfolio. Because my goal is to work in software development as a Technical Writer, we decided to create 2 instructional booklets of 10 pages or more using Adobe InDesign. My work with the instructor will focus on mastering Indesign, and the design aspects of the booklet including text setting, visual components, and dynamic elements. The procedures that I write in ENG517 will serve as the text for the instructional booklets.
+My independent study advisor has encouraged me to develop a final project relevant to my desired field that will serve as a featured element in a portfolio. Because my goal is to work in software development as a Technical Writer, we decided to create 2 instructional booklets of 10 pages or more, using Adobe InDesign, for the final project of the study. My work with the instructor will focus on learning Indesign to implement skills like setting text, designing visual components, and adding dynamic elements. The procedures that I write in ENG517 will serve as the text for the instructional booklets.
 
 ### Goals
-- To select procedure topics that are relevant to Technical Writing -- see [Description](#description), below.
+- To select procedure topics that are relevant to Technical Writing -- see [Description](#description) below.
 - To develop procedures with an eye toward the ENG517 final project as well as the Independent Study final project.
 - To create instructional manual-style booklets using Indesign.
 
@@ -26,22 +26,22 @@ Sample technical manual: ![sample manual](images/software-manual-template.webp)
 
 ## Description
 
-While the ENG517 project guidelines allow students to choose any topic for their procedures, the goal of the independent study will be to create an instructional manual booklet that can be used for future interviews. Since my goal is to work in software development, my advisor encouraged me to choose topics that would seem relevant to a recruiter or hiring manager at the kind of technology corporation I would like to work for.
+While the ENG517 project guidelines allow students to choose any topic for their procedures, the goal of my independent study will be to create an instructional manual booklet that can be used for job interviews. Since my goal is to work in software development, my advisor encouraged me to choose topics that would be relevant to a recruiter or hiring manager at the kind of technology companies I would like to work for.
 
 ### Challenges
 The main challenge is that I do not have -- or at least, at the time of writing this cannot think of -- any specific technical knowledge that could be used in the creation of instruction manuals. So, part of the additional challenge will be doing enough research on new topics to write about them.
 
 ### Advantages
-While I this approach will require additional time spent researching, it will present several advantages:
+The upside is that I have improved as a researcher and writer over the course of my graduate coursework up to this point. I feel ready to apply these research skills to independently investigating technical processes. And while this approach will require additional research time, it will present several advantages:
 
 1. I will be getting real practice doing what a Technical Communicator does -- namely, taking information via research and subject matter expert interviews to create clear content that is easily understood by the designated audience.
-2. I will be preparing myself for interviews, as these combined projects will make for useful talking points, and will lead to the creation of portfolio materials that can be referenced.
+2. I will be preparing myself for interviews, as these combined projects will make for useful talking points, and will lead to the creation of portfolio materials that can be referenced to hiring managers.
 3. In the process of doing this research, I will be learning about topics that could be useful to me in future roles.
 
 ### Sources
 I have several friends, including a sibling, who work for Red Hat. I could talk to them to get an idea of the products they use for workflow, as well as the products that they design/sell/support.
 
-To start learning InDesign, I will be using the Linkedin Learning course title [InDesign 2024 Essential Training](https://www.linkedin.com/learning/indesign-2024-essential-training/indesign-learn-the-fundamentals-19871440?u=53565897)
+To start learning InDesign, I will be using the Linkedin Learning course titled [InDesign 2024 Essential Training](https://www.linkedin.com/learning/indesign-2024-essential-training/indesign-learn-the-fundamentals-19871440?u=53565897).
 
 ## Potential Topic Ideas
 
@@ -49,6 +49,6 @@ To start learning InDesign, I will be using the Linkedin Learning course title [
 2. Idea 2: The software development life cycle
 3. Idea 3: AI - maybe description of how LLM models like ChatGPT work, or instructions on how to use a specific AI product
 4. Idea 4: Product from a company I would like to work for (Red Hat, IBM, Google, Apple, Pendo)
-5. Idea 5: Hardware - A smart phone? A computer? A printer? Something more involved/less common?
+5. Idea 5: Hardware - A smart phone? A computer? A printer? A server? Maybe a server cloud? Something more involved/with a more specific application?
 6. Idea 6: Other software - Is it too meta to make a booklet in Indesign about how to use Indesign? Is there an app I am particularly fond of that I could explain how to use to a non-technical audience?
 
